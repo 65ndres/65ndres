@@ -1,5 +1,5 @@
-# 💫 About Me:
-Full Stack Software Engineer with almost a decade of professional experience
+# 👨‍💻 About Me:
+I’m Andres Rojas, a Senior Software Developer with almost a decade of professional experience, I have a passion for transforming ideas into efficient, scalable, and user-friendly solutions. What sets me apart is my need for constant learning and my ability to rapidly adapt to the dynamic pace any team. From crafting MVPs to optimizing scalable systems, I’m eager to contribute my technical expertise to help fuel the success of the team.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andres-rojas-a82a3aaa) 
